@@ -1,1 +1,1 @@
-export const backendUrl = "http://localhost:3000";
+export const backendUrl = "https://lms-backend-b7fr.onrender.com";
