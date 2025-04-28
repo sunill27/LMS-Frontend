@@ -1,1 +1,1 @@
-export const backendUrl = "https://lms-backend-b7fr.onrender.com";
+export const backendUrl = "https://node-js-dc34.onrender.com";
